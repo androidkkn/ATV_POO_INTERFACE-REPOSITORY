@@ -8,3 +8,11 @@
 
 **3. Por que interfaces ajudam no trabalho em equipe?**
 - Ela serve como um acordo combinado entre os programadores: cada um pode codificar sua parte ao mesmo tempo sem travar o colega e sem risco de quebrar o trabalho do outro.
+
+# DESAFIO PROFISSIONAL
+
+**1. Como interfaces ajudam um novo desenvolvedor a entender o sistema mais rápido?**
+-  A interface serve como um manual simplificado, mostrando de cara o que o sistema faz sem o novo desenvolvedor precisar ler o código completo.
+
+**2. O que acontece se ele não seguir o contrato?**
+-  O código não compila; o próprio sistema bloqueia o programa e aponta o erro na hora.
